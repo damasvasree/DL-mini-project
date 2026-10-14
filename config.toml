@@ -1,0 +1,10 @@
+[server]
+fileWatcherType = "none"
+headless = false
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+base = "dark"
+primaryColor = "#8b5cf6"
